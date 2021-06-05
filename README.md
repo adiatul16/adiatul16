@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <p>
   <em>
      Hello Friends. My name is Aditya and I study at <b>Amrita Vidyalayam </b> Chennai</a>. <br>
-     I am basically a Biology Student with some passion towards Android Development. <br>
-     🌱 I’m currently learning -  Python (Just Now only started). 🐍 <br>
+     I am a Biology Student with some passion towards Android Development. <br>
+     🌱 I’m currently learning -  Python && JAVA (Just Now only started). 🐍 <br>
      💬 Hobbies : Video Games⚡ Music 🎧  Netflix👓 <br>
-     🔭 I currently maintain few ROM such as <b> CrDroid </b> and <b> ZenX-OS. </b>
+     🔭 I currently maintain <b> CrDroid </b> ROM for <b> Xiaomi MI 6X (wayne) </b> and <b> Redmi Note 9 Pro (miatoll) </b>.
 <br>
 
 
