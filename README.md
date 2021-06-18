@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adiatul16&show_icons=true&hide_border=true)
 
 <br>
-     
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31cj33ymega6g7x5h62y2x4un7me)
+
 <br>
 <a href="https://www.instagram.com/r____aditya____r">
  <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
